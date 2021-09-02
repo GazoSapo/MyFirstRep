@@ -329,3 +329,4 @@ insert into customer (customer_id, last_name, first_name) values (342, 'Wymer', 
 insert into customer (customer_id, last_name, first_name) values (343, 'Deverille', 'Robbin');
 insert into customer (customer_id, last_name, first_name) values (344, 'Tumielli', 'Hayward');
 insert into customer (customer_id, last_name, first_name) values (348, 'Adamczewski', 'Clay');
+insert into customer (customer_id, last_name, first_name) values (349, 'Cyson', 'Dixer');
